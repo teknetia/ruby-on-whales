@@ -2,6 +2,10 @@
 
 Mostly adapted from [https://docs.docker.com/samples/rails/](https://docs.docker.com/samples/rails/) with some tweaks.
 
+## Copying this repo
+
+`git clone git@github.com:teknetia/ruby-on-whales.git app-name`
+
 ## Make commands
 
 I am lazy so I created a bunch of make commands to reduce how much typing I need to do when I want to do basic stuff.
